@@ -88,9 +88,9 @@
 | [dime dime baby ai](https://dimedimebabyai.dev) | 网页 | 一张照片→约5s 9:16 AI 舞蹈视频 | Web | 付费 $7.99 起 | 8/10 |
 | [PromptImage](https://promptimage.cloud) | 网页 | 免费 AI 图片与视频工作室，含提示词库（注册送积分） | Web | 免费+Freemium | 8/10 |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | 网页 | 独立 Grok Imagine 文生/图生视频（非 xAI/X 官方） | Web | 免费试用 | 8/10 |
-| [Alors On Danse Video Maker](https://alorsondansevideo.com) | 网页 | 独立 Grok Imagine 文生/图生视频（非 xAI/X 官方） | Web | 免费试用 | 8/10 |
-| [Bad Times AI](https://badtimesai.dev) | 网页 | 独立 Grok Imagine 文生/图生视频（非 xAI/X 官方） | Web | 免费试用 | 8/10 |
-| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | 网页 | 独立 Grok Imagine 文生/图生视频（非 xAI/X 官方） | Web | 免费试用 | 8/10 |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | 网页 | 独立付费：两张照片 → 13 秒摄影棚双人舞（非 Stromae/TikTok 官方） | Web | 付费 | 8/10 |
+| [Bad Times AI](https://badtimesai.dev) | 网页 | 独立付费 AI 跳舞特效：一张照片 → 14–15 秒竖屏（$7.99 起） | Web | 付费 | 8/10 |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | 网页 | 独立付费 AI 相遇特效：两张照片 → 阳台/聚光灯场景（$7.99 起） | Web | 付费 | 8/10 |
 | [随心剪](https://www.suixinjian.com/) | 桌面 | 批量剪辑、AI 文案、智能分镜，商业化剪辑工具 | Win/Mac | 付费 | 7.5/10 |
 
 #### 剪辑辅助提效（单点增强）
